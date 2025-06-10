@@ -349,21 +349,8 @@ copies or substantial portions of the Software.
 - 📧 Email: [dr.ngominhtu@gmail.com]
 - 🐙 GitHub: [@ngominhtu](https://github.com/ngominhtu)
 
-
-### 🏆 Acknowledgments
-- **Adafruit** - MPU6050 library
-- **T-vK** - ESP32 BLE Mouse library
-- **Espressif** - ESP32 platform
-- **PlatformIO** - Development environment
-
 ---
 
 ## 🌟 Support the Project
 
 If this project helped you, please give it a ⭐ on GitHub!
-
-### 📊 Project Statistics
-![GitHub stars](https://img.shields.io/github/stars/drngominhtu/esp32-air-mouse?style=social)
-![GitHub forks](https://img.shields.io/github/forks/drngominhtu/esp32-air-mouse?style=social)
-![GitHub issues](https://img.shields.io/github/issues/drngominhtu/esp32-air-mouse)
-![GitHub last commit](https://img.shields.io/github/last-commit/drngominhtu/esp32-air-mouse)
