@@ -345,11 +345,10 @@ copies or substantial portions of the Software.
 
 ## 👨‍💻 Author
 
-**Dr. Ngo Minh Tu**
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 📧 Email: ngominhtu@example.com
+- 🌐 Facebook: [NM Tu](https://www.facebook.com/daturaseeker/)
+- 📧 Email: [dr.ngominhtu@gmail.com]
 - 🐙 GitHub: [@ngominhtu](https://github.com/ngominhtu)
-- 💼 LinkedIn: [Dr. Ngo Minh Tu](https://linkedin.com/in/ngominhtu)
+
 
 ### 🏆 Acknowledgments
 - **Adafruit** - MPU6050 library
@@ -364,16 +363,7 @@ copies or substantial portions of the Software.
 If this project helped you, please give it a ⭐ on GitHub!
 
 ### 📊 Project Statistics
-![GitHub stars](https://img.shields.io/github/stars/yourusername/esp32-air-mouse?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/esp32-air-mouse?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/esp32-air-mouse)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/esp32-air-mouse)
-
-### 🔗 Related Projects
-- [ESP32 Robot Mapping](https://github.com/yourusername/esp32-robot-mapping) - Robot navigation system
-- [ESP32 Sensor Hub](https://github.com/yourusername/esp32-sensor-hub) - Multi-sensor data collection
-- [BLE Projects Collection](https://github.com/yourusername/esp32-ble-projects) - Various BLE applications
-
----
-
-**🚀 Happy Coding! Transform your ESP32 into the ultimate wireless mouse!** 🖱️✨
+![GitHub stars](https://img.shields.io/github/stars/drngominhtu/esp32-air-mouse?style=social)
+![GitHub forks](https://img.shields.io/github/forks/drngominhtu/esp32-air-mouse?style=social)
+![GitHub issues](https://img.shields.io/github/issues/drngominhtu/esp32-air-mouse)
+![GitHub last commit](https://img.shields.io/github/last-commit/drngominhtu/esp32-air-mouse)
